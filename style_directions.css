@@ -1,0 +1,35 @@
+main {
+  color: white;
+  border: solid #4285f4 5px;
+  text-align: center;
+  width: 250px;
+  font-size: 24px;
+  font-family: 'Balsamiq Sans', cursive;
+  
+}
+
+.north{
+  background: #E67676;
+  padding: 50px 20px 50px 20px;
+  margin: 0px
+  
+ 
+}
+
+.east{
+  background: #F2F062;
+  padding: 50px 20px 50px 20px;
+  margin: 0px
+}
+
+.south{
+  background: #A9E6E6;
+  padding: 50px 20px 50px 20px;
+  margin: 0px
+}
+
+.west{
+  background: #7692E4;
+  padding: 50px 20px 50px 20px;
+  margin: 0px
+}
